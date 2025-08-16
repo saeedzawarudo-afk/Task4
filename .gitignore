@@ -1,0 +1,17 @@
+# General
+.DS_Store
+*.log
+
+# Node/JS (example)
+node_modules/
+
+# Python (example)
+__pycache__/
+*.pyc
+
+# Terraform (common for DevOps repos)
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+.terraform.lock.hcl
